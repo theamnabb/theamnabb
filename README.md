@@ -96,21 +96,11 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
       </a>
       <br>Firebase
     </td>
-<!--           <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/shadcnui.svg" alt="Shadcn" width="48" height="48" />
-      </a>
-      <br>Shadcn
-    </td> -->
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
     </td>
-<!--           <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/chakra-ui.svg" alt="Chakra UI" width="48" height="48" />
-      </a>
-      <br>Chakra UI
-    </td> -->
           <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
       </a>
@@ -169,10 +159,6 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
     </td>
      </tr>
 </table>
-
-
-<!-- <h1><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="45px"> GitHub Analytics </h1> --> 
-<!--<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">GitHub Analytics </h1> -->
 <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
 
 
@@ -181,9 +167,6 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
           <img height="180em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theamnabb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/> 
           <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theamnabb&layout=compact&langs_count=8&theme=radical&"/>
      </a> 
-<!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=theamnabb&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
-<!--      <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=theamnabb&show_icons=true&locale=en&layout=demo&theme=radical&"/> -->
-</p>
 </p>
 
 
