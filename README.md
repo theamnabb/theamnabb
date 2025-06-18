@@ -1,28 +1,18 @@
-<!-- <h2 align="center"> Hi &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> -->
-<!--<h3 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="34px"> </h3>-->
-
 <h3 align="center"> &lt;𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/&gt;!</h3>
-
 
 I'm **Amna BB**, a Computer Science graduate from Government College University Faisalabad. I'm a passionate tech enthusiast who loves diving into JavaScript and problem-solving. Always looking for new challenges, I thrive on learning about and experimenting with the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
 
 <div align="center">
 
-<!-- [![page views](https://komarev.com/ghpvc/?username=theamnabb&color=ff3377)](https://github.com/theamnabb/) -->
-<!--[![GitHub followers](https://img.shields.io/github/followers/theamnabb?label=Follow&style=social)](https://github.com/theamnabb/) --> 
 [![Linkedin Badge](https://img.shields.io/badge/-theamnabb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theamnabb/)](https://www.linkedin.com/in/theamnabb/)
 [![Gmail Badge](https://img.shields.io/badge/-theamnabb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theamnabb@gmail.com)](mailto:theamnabb@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=yellow&&labelColor=black&color=%23ffa116)](https://leetcode.com/u/amnabb)
-<!--[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamnansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamnansari/) -->
-
 </div>
 
 ---
      
-<!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
- <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1> 
-<!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="60px"> About </h1> -->
-  
+ <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>  
+ 
 - 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
 - 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: MERN Stack Development
 - 👨‍🏫 𝗥𝗼𝗹𝗲: Trainer | Software Engineer | Open Source Contributor
