@@ -20,7 +20,8 @@ I'm **Amna BB**, a Computer Science graduate from Government College University 
 - 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru" target="_blank">iCodeGuru</a>
 - 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Advancing in Open Source & Backend Development
 - 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Competitive programming, international hackathons, and open-source projects
-- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Tech growth & PhD opportunities in the US
+
+<!-- - 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Tech growth & PhD opportunities in the US -->
 - 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Open to collaborations, discussions & networking.
 --- 
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Favorite Tech</h1>
