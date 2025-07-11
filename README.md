@@ -12,4 +12,11 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 - 👩‍🏫 Teaching volunteer at **iCodeGuru**, where I deliver sessions on Python and DSA.
 - 🎯 2025 Goals: Contribute more to Open Source, publish technical content, and dive deeper into backend.
 
- 
+ <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Favorite Tech</h1>
+
+> Tools, languages, and other things I like working with.
+
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,reactrouter,flowbite,materialui,figma,nodejs,express,ejs,mongodb,firebase,python,streamlit,postman,git,github,vscode,vercel,netlify,notion,slack,trello,discord,canva" />
+</p>
+
