@@ -2,7 +2,9 @@
 
 ---
 
-I'm **Amna BB**, a **Frontend Developer** with a solid foundation in JavaScript, React, and modern web technologies. As a Computer Science graduate from **Government College University Faisalabad** , I’m deeply passionate about building clean, responsive, and user-focused digital experiences. I thrive in learning environments, enjoy tackling real-world challenges, and love creating intuitive UIs that make technology more accessible and enjoyable for everyone.
+I'm **Amna BB** , a Computer Science graduate from **Government College University, Faisalabad** , and a passionate **Frontend Developer** exploring full-stack technologies. I love building responsive, user-focused web applications and solving real-world problems through code.
+
+<h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
 
 
  
