@@ -13,7 +13,6 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 
 </div>
 
-
 <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
 
 
