@@ -4,6 +4,16 @@
 
 I'm **Amna BB** , a Computer Science graduate from **Government College University, Faisalabad** , and a passionate **Frontend Developer** exploring full-stack technologies. I love building responsive, user-focused web applications and solving real-world problems through code.
 
+<div align="center">
+
+[![Gmail](https://img.icons8.com/color/30/gmail-new.png) `theamnabb@gmail.com`](mailto:theamnabb@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png) `theamnabb`](https://www.linkedin.com/in/theamnabb)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/> `amnabb`](https://leetcode.com/u/amnabb/)
+[![Website](https://img.icons8.com/color/30/domain.png) `theamnabb`](https://theamnabb.vercel.app/)
+
+</div>
+
+
 <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
 
 
