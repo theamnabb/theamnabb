@@ -31,7 +31,7 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 > Tools, languages, and other things I like working with.
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,reactrouter,flowbite,materialui,figma,nodejs,express,ejs,mongodb,firebase,python,streamlit,postman,git,github,vscode,vercel,netlify,notion,slack,trello,discord,canva" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,react,reactrouter,flowbite,materialui,shadcnui,figma,nodejs,express,ejs,mongodb,firebase,python,streamlit,postman,git,github,vscode,vercel,netlify,notion,slack,trello,discord,canva" />
 </p>
 
 
