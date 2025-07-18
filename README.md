@@ -38,6 +38,9 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 <h1 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> Achievements & Community Contributions</h1>
 
 - 🧠 **Harvard CS50x Puzzle Day (2024 & 2025)** 🥇 1st place, 9/9 puzzles
+  
+  - 🔗 Certificates: [2024](https://certificates.cs50.io/ebbdb4b8-2b10-46e9-9af0-8be96b45ae20.png?size=letter) | [2025](https://certificates.cs50.io/e00eae90-a5af-436e-88ec-259284176bd3.pdf?size=letter)
+
 - 💻 **Stanford Code in Place**  Section Leader & Global Mentor
 
 <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
