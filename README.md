@@ -43,6 +43,13 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 - 🎓 **Stanford Code in Place**  👩‍🏫 Section Leader & Global Mentor  
   - 📜 Certificate: [View](https://digitalcredential.stanford.edu/check/23CD393A8FA838966BC2FF4E64CBF201FAE1DAAA37B56DB15C0F3C04C076A5D4cEs3L0ZteXREcXpReE1QTTF3VTl5elhEd2VWOWdwNGliNE1LRmY3SjA4c3lCbHMr)
 
+- 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub  
+  - 🐍 Delivered Python sessions and solved LeetCode problems  
+  - 🛠 Conducted workshops on Git and GitHub  
+  - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025
+  - 🎥 Recordings: [GitHub Repository](https://github.com/theamnabb/Volunteer_Instructor_Recordings)
+
+
 
 <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
 
