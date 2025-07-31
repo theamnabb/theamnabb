@@ -11,8 +11,7 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/> `amnabb`](https://leetcode.com/u/amnabb/)
 [![Website](https://img.icons8.com/color/30/domain.png) `theamnabb`](https://theamnabb.vercel.app/)
 
-</div>
-
+</div> 
 
 <h1 align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About </h1>
 
