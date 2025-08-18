@@ -54,7 +54,7 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theamnabb&show_icons=true&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamnabb&layout=compact&langs_count=8&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamnabb&layout=compact&langs_count=8&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&hide_border=true"/>
 </p> 
 
 
