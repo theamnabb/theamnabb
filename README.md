@@ -20,8 +20,7 @@ I'm **Amna BB** , a Computer Science graduate from **Government College Universi
 - 🌐 Passionate about **Web technologies**, especially **JavaScript** and **full-stack** development.
 - 💡 Enthusiastic about **solving complex problems**, learning new tools, and building real-world projects.
 - 👩‍🏫 Teaching volunteer at **iCodeGuru**, where I deliver sessions on Python and DSA.
-- 🎯 **2025 Goals:**  
-  - Contribute actively to open-source projects  
+- 🎯 **2025 Goals:**    
 
  <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Favorite Tech</h1>
 
