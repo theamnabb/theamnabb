@@ -2,8 +2,6 @@
 
 ---
 
-I'm **Amna BB** , a Computer Science graduate from **Government College University, Faisalabad**  and a passionate **Frontend Developer** exploring full-stack technologies. I love building responsive, user-focused web applications and solving real-world problems through code.
-
 <div align="center">
 
 [![Gmail](https://img.icons8.com/color/30/gmail-new.png) `theamnabb@gmail.com`](mailto:theamnabb@gmail.com)
