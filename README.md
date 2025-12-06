@@ -47,10 +47,10 @@
 
  <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
 
-<p align="center">
+<!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theamnabb&show_icons=true&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamnabb&layout=compact&langs_count=8&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&hide_border=true"/>
-</p> 
+</p>  -->
 
 
 
