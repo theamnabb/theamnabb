@@ -1,6 +1,6 @@
 <h3 align="center"> <𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/>!</h3>
 
-I'm AaMna AnSari.
+I'm AaMna AnSari
 
 ---
 
