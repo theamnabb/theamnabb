@@ -46,7 +46,7 @@
 
 
 
- <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
+<!-- <h1><img src="https://media3.giphy.com/media/ZjtF698DrjHGcntUCB/giphy.gif" width="50px">GitHub Analytics</h1>
 
 <!-- <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theamnabb&show_icons=true&title_color=caf425&text_color=ffffff&icon_color=caf425&bg_color=131112&include_all_commits=true&count_private=true&hide_border=true"/>
