@@ -41,7 +41,7 @@ I'm AaMna AnSari.
 - 📢 **Tech Instructor & Trainer @ iCodeGuru** — Python, DSA, Git & GitHub  
   - 🐍 Delivered Python sessions and solved LeetCode problems  
   - 🛠 Conducted workshops on Git and GitHub  
-  - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2025
+  - 🎤 Presented webinars and awareness sessions on Harvard CS50 Puzzle Day 2024
   - 🎥 Recordings: [GitHub Repository](https://github.com/theamnabb/Volunteer_Instructor_Recordings)
 
 
